@@ -2,7 +2,7 @@
 
 * [概要](README.md)
 * [GitBook 学习](GitBook/README.md)
-    - [学习资源](学习资源.md)
+    - [学习资源](GitBook/学习资源.md)
 * [机器学习](机器学习/README.md)
     * [监督学习](机器学习/监督学习/README.md)
         - [分类](机器学习/监督学习/分类/README.md)
