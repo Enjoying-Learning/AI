@@ -1,6 +1,17 @@
-# Table of contents
+# 目录
 
 * [概要](README.md)
-* [机器学习](机器学习/ji-qi-xue-xi.md)
-    * [监督学习](机器学习/监督学习/监督学习.md)
-        - [分类](机器学习/监督学习/jian-du-fen-lei.md)
+* [GitBook 学习](GitBook/README.md)
+    - [学习资源](学习资源.md)
+* [机器学习](机器学习/README.md)
+    * [监督学习](机器学习/监督学习/README.md)
+        - [分类](机器学习/监督学习/分类/README.md)
+        - [回归](机器学习/监督学习/回归/README.md)
+    * [无监督学习](机器学习/监督学习/README.md)
+        - [分类](机器学习/监督学习/分类/README.md)
+        - [回归](机器学习/监督学习/回归/README.md)
+    * [半监督学习](机器学习/监督学习/README.md)
+        - [分类](机器学习/监督学习/分类/README.md)
+        - [回归](机器学习/监督学习/回归/README.md)
+* [深度学习](机器学习/README.md)
+* [强化学习](机器学习/README.md)
